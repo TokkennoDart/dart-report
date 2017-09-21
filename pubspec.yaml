@@ -1,0 +1,7 @@
+name: report
+description: Generate text reports from object instances with @annotations to format and extend.
+version: 0.0.1
+#homepage: https://github.com/minerhub/dart-report
+
+environment:
+  sdk: '>=1.20.1 <2.0.0'
